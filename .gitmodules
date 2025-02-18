@@ -1,6 +1,6 @@
 [submodule "Utilities"]
-	path = Utilities
-	url = ./Utilities
+	path = /.Utilities
+	url = https://github.com/Ultimate-Reality-Game-Engine/Utilities.git
 [submodule "Rendering"]
-	path = Rendering
-	url = ./Rendering
+	path = /.Rendering
+	url = https://github.com/Ultimate-Reality-Game-Engine/Rendering.git
