@@ -6,3 +6,6 @@
 	path = Rendering
 	url = https://github.com/Ultimate-Reality-Game-Engine/Rendering.git
 	branch = master
+[submodule "UltReality_Core"]
+	path = UltReality_Core
+	url = https://github.com/Ultimate-Reality-Game-Engine/UltReality_Core.git
